@@ -55,8 +55,23 @@ if ($a==10) {
        
     
 
+    echo '<br />' ;
+    $x=90;
+    if ($x<20)
+    {
+        echo "good";
+
+
+    }
+    
+    else{
+        echo "bad";
+    }
     
 
 
+$cont="jo";
 
+
+    
 ?>
