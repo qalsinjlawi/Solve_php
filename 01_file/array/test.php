@@ -24,5 +24,4 @@ foreach ($colors as $color) {
 
  echo"</ul>" ;
 
-
 ?>
